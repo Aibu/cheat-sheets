@@ -57,4 +57,4 @@ git push origin :<old-name> <new-name>
 ```
 The command above will delete the old branch and push the renamed branch to remote. 
 
-[Go back to the Cheat Sheet menu.](../README.md)
+[Go back to the Cheat Sheets menu.](../README.md)
