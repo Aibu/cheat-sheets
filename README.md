@@ -3,5 +3,5 @@
 This is my personal list of most common used commands. 
 
 
-* [Git](git/git.md)
-* [Markdown](markdown/markdown.md)
+* [Git Cheat Sheet](git/git.md)
+* [Markdown Cheat Sheet](markdown/markdown.md)
