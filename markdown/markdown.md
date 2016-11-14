@@ -6,4 +6,4 @@
 ```
 
 
-[Go back to the Cheat Sheet menu.](../README.md)
+[Go back to the Cheat Sheets menu.](../README.md)
