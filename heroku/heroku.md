@@ -14,7 +14,7 @@ heroku config:set <env-name>=<env-value>
 ```
 
 ## Run Postico with a remote Heroku PostgreSQL database:
-Install this Heroku plugin: ([heroku-postico](https://www.npmjs.com/package/heroku-postico target="_blank") 
+Install this Heroku plugin: [heroku-postico](https://www.npmjs.com/package/heroku-postico) 
 ```
 heroku plugins:install heroku-postico
 ```
