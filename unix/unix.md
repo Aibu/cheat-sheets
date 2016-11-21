@@ -1,4 +1,4 @@
-# unix
+# Unix
 
 ### Create aliases
 ```
