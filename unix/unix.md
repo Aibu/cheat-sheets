@@ -88,3 +88,5 @@ Finds your current IP address
 ```
 ifconfig | grep inet
 ```
+
+[Go back to the Cheat Sheets menu.](../README.md)
