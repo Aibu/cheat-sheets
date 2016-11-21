@@ -7,4 +7,4 @@ This is my personal list of most common used commands.
 * [Heroku Cheat Sheet](heroku/heroku.md)
 * [Magento Cheat Sheet](magento/magento.md)
 * [Markdown Cheat Sheet](markdown/markdown.md)
-* [Uarkdown Cheat Sheet](unix/unix.md)
+* [Unix Cheat Sheet](unix/unix.md)
