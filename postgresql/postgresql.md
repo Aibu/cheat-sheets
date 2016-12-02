@@ -4,3 +4,6 @@
 ```
 => \! date +%Z
 ```
+
+
+[Go back to the Cheat Sheets menu.](../README.md)
