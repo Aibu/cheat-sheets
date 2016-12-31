@@ -23,5 +23,19 @@ Open Postico with connection to the current app PostgreSQL db:
 heroku postico:open
 ```
 
+### Clean up node_modules cache
+```
+heroku config:set NODEMODULESCACHE=false
+git commit -am 'rebuild' --allow-empty
+git push heroku master
+heroku config:unset NODEMODULESCACHE
+```
+
+### Log node without PostgreSQL
+```
+heroku logs --tail | grep -v 'Executing'
+```
+where the -v parameter inverts the grep search, so that only other log messages are shown (assuming they don't have the text 'Executing' in their content).
+
 
 [Go back to the Cheat Sheets menu.](../README.md)
