@@ -25,10 +25,10 @@ heroku postico:open
 
 ### Clean up node_modules cache
 ```
-heroku config:set NODEMODULESCACHE=false
+heroku config:set NODE_MODULES_CACHE=true
 git commit -am 'rebuild' --allow-empty
 git push heroku master
-heroku config:unset NODEMODULESCACHE
+heroku config:unset NODE_MODULES_CACHE
 ```
 
 ### Log node without PostgreSQL
