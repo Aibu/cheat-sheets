@@ -60,6 +60,11 @@ The command above will delete the old branch and push the renamed branch to remo
 ### Revert a merge
 ```
 git revert -m1 1 <sha-of-commit>
-``
+```
+
+### Export patch
+```
+git diff src/utils/ > locale-patch.fix
+```
 
 [Go back to the Cheat Sheets menu.](../README.md)
