@@ -2,7 +2,7 @@
 
 ### Create aliases
 ```
-cd nano .bash_profile
+nano .bash_profile
 alias name=‘command’
 ```
 
